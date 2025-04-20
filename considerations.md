@@ -18,6 +18,13 @@ North Vancouver School District's Access 2 Innovate Program is located in North 
 - [Workspace consideration](https://3dprintingcanada.com/blogs/news/the-importance-of-ventilation-and-your-3d-printing-workspace?srsltid=AfmBOor5SjMDqyfniy5JpUxImLsi3xzjg-XEIRWL3aUqSBj8dinWe0S){:target="_blank"}
 - [Vemtilation Considerations](https://www.wevolver.com/article/3d-printer-ventilation-a-comprehensive-guide){:target="_blank"}
 
+# Privacy Considerations
+
+## Digital Privacy Policies
+Please check your school district's privacy policy, consult the IT departement regarding student data storage and inquire about required consent forms for student usage of programs (if applicable). Please see [TinkerCad Privacy Policy](privacy policy - https://www.tinkercad.com/privacy){:target="_blank"}, their [FAQ's](https://www.tinkercad.com/privacy-faq){:target="_blank"}, and their [Children's Privacy Statement](https://www.tinkercad.com/childrens-privacy){:target="_blank"}. 
+
+[Commons Sense Media](https://privacy.commonsense.org/privacy-report/Tinkercad){:target="_blank"} also has a privacy report on TinkerCad
+
 **Design Creation and Gifs**
 - In order to have an accessible resource, we decided to include animated Gifs to illustrate the previous written instructions. This visual clarity helps students who can't read follow the steps, when the teacher facilitates their own workshop and it allows teacher to easily follow along and see the process of the activities. One key limitation, could be people who are visually impaired, however the written instructions should compliment and be sufficient to complete the activities without the use of Gifs.
 - Dictation: text to speech dictation is another accessible tool that most computers have access to and can help dictate the activities within Github.
