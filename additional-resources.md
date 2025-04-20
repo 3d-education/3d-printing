@@ -12,7 +12,9 @@ nav_order: 14
 
 ## Grant Application Guides
 - [Educator Guidebook](https://www.makerbot.com/educators-guidebook/){:target="_blank"}
-- 
+
+## Teacher Guides
+- [3D Printing Teaching Guides](https://teachers-ab.libguides.com/3dprinting/books){:target="_blank"}
 ## Troubleshooting help
 - [Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/){:target="_blank"}
 
@@ -39,6 +41,7 @@ nav_order: 14
 - [Krystal Yang](kryang@sd43.bc.ca){:target="_blank"}
     - [Blog](https://liltechteacher.opened.ca/){:target="_blank"}
 - [Clay Howlett](chowlett@sd61.bc.ca){:target="_blank"}
-      - [Blog](https://integrating3dprint.opened.ca/){:target="_blank"} and [Project](https://dspace.library.uvic.ca/items/50b2358a-8de1-4a08-bbad-03a94eb16317){:target="_blank"}
+      - [Blog](https://integrating3dprint.opened.ca/){:target="_blank"}
+      - [Project](https://dspace.library.uvic.ca/items/50b2358a-8de1-4a08-bbad-03a94eb16317){:target="_blank"}
 
 [NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
