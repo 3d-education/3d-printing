@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 4-Dice Activity
-nav_order: 6
+title: 3-Dice Activity
+nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
