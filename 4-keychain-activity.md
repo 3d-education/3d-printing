@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3-Keychain
-nav_order: 3
+title: 4-Keychain
+nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
