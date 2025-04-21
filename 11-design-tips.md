@@ -1,11 +1,13 @@
 ---
 layout: default
-title: 11-Design & Print Tips Handout
-nav_order: 13
+title: 1-Design & Print Tips Handout
+nav_order: 1
 parent: Workshop Activities
 ---
+
 # Design Tips Handout
 <img src="images/tinkercad-tips-01.png" style="float:right;width:220px" alt="TinkerCad logo">
+
 ### TinkerCad Quick Tips:
 
 ## Move around the build plate: 
