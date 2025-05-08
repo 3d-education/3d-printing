@@ -16,5 +16,18 @@ Here is an example of a project-based learning activity with 3D modelling. For e
 
 4. Next we will add windows and a door, by adding more "boxes" you can adjust the size to window sides by pulling in the ends.
 5. You can either indent it by creating a small hole and clicking the greyed out colour or select the color black as show in the video.
-6. You can also make them stick out by making the boxes wider by using the white side corners.    
+6. You can also make them stick out by making the boxes wider by using the white side corners.
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
