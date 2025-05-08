@@ -13,8 +13,8 @@ Here is an example of a project-based learning activity with 3D modelling. For e
 1. Add the required shapes, add a cube "**box** and a triangle "**roof**" to your building area
 2. Next raise the roof to place it overtop of the box. To do this use the black arrow pointing upwards until it reaches the top of the box. Click on a different spot of the roof and drag it over the box.
 
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-        <div id="gif1">
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
         <img src="images/gif-house1.gif">
         </div>
 
