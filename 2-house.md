@@ -31,7 +31,9 @@ Here is an example of a project-based learning activity with 3D modelling. For e
 7. You can also make them stick out by making the boxes wider by using the white side corners.<br>
     <img src="images/house-built.png" style= "width:400px;" alt="house built"><br>
 
+
 <script>  
+
     function toggle(input) {
         var x = document.getElementById(input);
         if (x.style.display === "none") {
