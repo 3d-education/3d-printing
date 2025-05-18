@@ -93,4 +93,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     }
 </script>
 
+Adapted by Digital Scholarship Commons 3D Design and Print Resource
+Copyright © 2021 UVic Libraries Digital Scholarship Commons - dscommons@uvic.ca
+
 [NEXT STEP: Importing Modifying STL](8-importing-modifying-stl.html){: .btn .btn-blue }
