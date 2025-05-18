@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8-Importing and Modifying STL in TinkerCad
+title: 6-Importing and Modifying STL in TinkerCad
 nav_order: 10
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -54,4 +54,4 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
     }
 </script>
 
-[NEXT STEP: Importing and Modifying 2D images](9-Importing-2D.html){: .btn .btn-blue }
+[NEXT STEP: Considerations](considerations.html){: .btn .btn-blue }
