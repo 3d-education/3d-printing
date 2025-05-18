@@ -44,3 +44,4 @@ Here is an example of a project-based learning activity with 3D modelling. For e
     }
 </script>
 
+[NEXT STEP: Dice Activity](3-dice-activity.html){: .btn .btn-blue }
