@@ -35,6 +35,7 @@ parent: Workshop Activities
 
     <img src="images/Ultimaker-Cura-4-Add-a-non-networked-printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Ultimaker S5">
 
-
+Adapted by Digital Scholarship Commons 3D Design and Print Resource
+Copyright © 2021 UVic Libraries Digital Scholarship Commons - dscommons@uvic.ca
 
 [NEXT STEP: House](2-house.html){: .btn .btn-blue }
