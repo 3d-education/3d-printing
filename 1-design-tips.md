@@ -37,4 +37,4 @@ parent: Workshop Activities
 
 
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: House](2-house.html){: .btn .btn-blue }
