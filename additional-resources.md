@@ -45,11 +45,11 @@ nav_order: 14
 - [UVic Library -Digital Scholarship Commons](https://uviclibraries.github.io/3d-design-print/) for their template. 
 
 ## Contacts  
-- [Brittany Johnson](brjohnson@sd61.bc.ca){:target="_blank"}
+- Brittany Johnson - brjohnson@sd61.bc.ca
     - [Blog](https://brittanyseducblog.opened.ca/){:target="_blank"}
-- [Krystal Yang](kryang@sd43.bc.ca){:target="_blank"}
+- Krystal Yang - kryang@sd43.bc.ca
     - [Blog](https://liltechteacher.opened.ca/){:target="_blank"}
-- [Clay Howlett](chowlett@sd61.bc.ca){:target="_blank"}
+- Clay Howlett - chowlett@sd61.bc.ca
     - [Blog](https://integrating3dprint.opened.ca/){:target="_blank"}
     - [Project](https://dspace.library.uvic.ca/items/50b2358a-8de1-4a08-bbad-03a94eb16317){:target="_blank"}
 
