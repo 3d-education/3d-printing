@@ -10,8 +10,9 @@ nav_order: 14
 - [BC Digital Literacy Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"}
 - [BC Digital Post Secondary Framework](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/bc_post-secondary_digital_literacy_framework.pdf){:target="_blank"}
 
-## Grant Application Guides
+## Grant Application Guides and Examples
 - [Educator Guidebook](https://www.makerbot.com/educators-guidebook/){:target="_blank"}
+- [Application Example](https://docs.google.com/document/d/1ZaAOQn6u8P8Xu_PIn9yQn7sKPVzd9ziXMjDjSG3Exsw/edit?tab=t.0){:target="_blank"}
 
 ## Teacher Guides
 - [3D Printing Teaching Guides](https://teachers-ab.libguides.com/3dprinting/books){:target="_blank"}
