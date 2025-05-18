@@ -64,6 +64,7 @@ If you and your group have any questions or get stuck as you work through this i
     }
 </script>
 
+Adapted by Digital Scholarship Commons 3D Design and Print Resource
 Copyright © 2021 UVic Libraries Digital Scholarship Commons - dscommons@uvic.ca
 
 [NEXT STEP: Dice Activity](4-keychain-activity.html){: .btn .btn-blue }
