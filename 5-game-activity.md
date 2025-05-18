@@ -93,4 +93,4 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     }
 </script>
 
-[NEXT STEP: Dice Activity](4-dice-activity.html){: .btn .btn-blue }
+[NEXT STEP: Importing Modifying STL](8-importing-modifying-stl.html){: .btn .btn-blue }
