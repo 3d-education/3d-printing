@@ -16,6 +16,7 @@ nav_order: 14
 ## Teacher Guides
 - [3D Printing Teaching Guides](https://teachers-ab.libguides.com/3dprinting/books){:target="_blank"}
 - [Guide for Teachers](https://www.stem.org.uk/system/files/elibrary-resources/2018/09/PrintLab%20-%203D%20Printing%20Guide%20for%20Teachers.pdf){:target="_blank"}
+
 ## Troubleshooting help
 - [Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/){:target="_blank"}
 
@@ -30,6 +31,9 @@ nav_order: 14
 
 ## Thingiverse Lesson Plans
 - [Cloud formations lesson](https://www.thingiverse.com/thing:1699444#google_vignette){:target="_blank"}
+
+## Lego Stem Activity
+[Lego Activity](https://sd42.libguides.com/c.php?g=735077&p=5290355){:target="_blank"}
 
 ## 3D printing editing and printing softwares
 - [list of applications](https://www.autodesk.com/ca-en/solutions/123d-apps){:target="_blank"}
