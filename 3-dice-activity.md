@@ -64,4 +64,4 @@ If you and your group have any questions or get stuck as you work through this i
     }
 </script>
 
-[NEXT STEP: Heart-Shaped Box Activity](5-heart-box-activity.html){: .btn .btn-blue }
+[NEXT STEP: House](4-keychain-activity.html){: .btn .btn-blue }
