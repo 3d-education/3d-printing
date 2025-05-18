@@ -64,4 +64,4 @@ If you and your group have any questions or get stuck as you work through this i
     }
 </script>
 
-[NEXT STEP: House](4-keychain-activity.html){: .btn .btn-blue }
+[NEXT STEP: Dice Activity](4-keychain-activity.html){: .btn .btn-blue }
