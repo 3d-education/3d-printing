@@ -30,11 +30,6 @@ parent: Workshop Activities
 ## Save File:
 - Click on the “Export” button on the top right of the toolbar, and then select “.STL” and save the file to your hard drive. From there it can be sent for printing at the DSC!
 
-## To Print:
-- Go to [**https://oac.uvic.ca/dsc/how-to-3d-print/**](https://oac.uvic.ca/dsc/how-to-3d-print/){:target="_blank"}
-
-    <img src="images/Ultimaker-Cura-4-Add-a-non-networked-printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Ultimaker S5">
-
 Adapted by Digital Scholarship Commons 3D Design and Print Resource
 Copyright © 2021 UVic Libraries Digital Scholarship Commons - dscommons@uvic.ca
 
