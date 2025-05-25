@@ -5,9 +5,9 @@ nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="tinkercad logo"> 
 
 # Keychain Activity 
+[Slides](https://docs.google.com/presentation/d/1QLnEOjQqvUIjBa3PCKEJYTn7m-UR6xO2ygM2Vj-cu2w/edit?usp=sharing){:target="_blank"}
 
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
