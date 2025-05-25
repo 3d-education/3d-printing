@@ -5,8 +5,9 @@ nav_order: 2
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
+# Buiding a House 
 
-[Slides](https://docs.google.com/presentation/d/1SE1AWqsd_q2Td5k5wWqYX8y7-4xSoFo_/edit?usp=sharing&ouid=112244992976166574655&rtpof=true&sd=true){target="_blank"}
+[Slides](https://docs.google.com/presentation/d/1SE1AWqsd_q2Td5k5wWqYX8y7-4xSoFo_/edit?usp=sharing&ouid=112244992976166574655&rtpof=true&sd=true){:target="_blank"}
 
 Here is an example of a project-based learning activity with 3D modelling. For example, a special unit on architecture could culminate with students designing and creating a 3D model of a building. Create a simple model of the exterior of a house or building you are familiar with.<br>
 <img src="images/house-design.png" style="width:400px" alt="house design shapes"><br>
