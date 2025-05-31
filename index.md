@@ -25,6 +25,6 @@ All in all, 3D printing can thus make learning more inclusive by providing a dif
 
 ## Learning objectives
 By the end of this workshop, participants will be able to:
-![TinkerCad Class Image](images/WBAT.png)
+![TinkerCad Class Image](images/WBAT1.png)
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
