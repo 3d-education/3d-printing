@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pre-Workshop Activities
-nav_order: 2
+nav_order: 3
 ---
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with TinkerCad in order to learn to use key features of the software and be able to create your own 3D designs. To participate fully please do the following **before the workshop**:
