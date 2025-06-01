@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Additional Resources
-nav_order: 14
+nav_order: 15
 ---
 # Additional Resources & Acknowledgements
 - [Applications for Indigenous Ways of Knowing](https://aboriginalresourcesforteachers.weebly.com/digital-resources.html){:target="_blank"}
