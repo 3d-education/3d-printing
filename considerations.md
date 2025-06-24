@@ -16,7 +16,7 @@ North Vancouver School District's Access 2 Innovate Program is located in North 
 
 **Ventillation**
 - [Workspace consideration](https://3dprintingcanada.com/blogs/news/the-importance-of-ventilation-and-your-3d-printing-workspace?srsltid=AfmBOor5SjMDqyfniy5JpUxImLsi3xzjg-XEIRWL3aUqSBj8dinWe0S){:target="_blank"}
-- [Vemtilation Considerations](https://www.wevolver.com/article/3d-printer-ventilation-a-comprehensive-guide){:target="_blank"}
+- [Ventilation Considerations](https://www.wevolver.com/article/3d-printer-ventilation-a-comprehensive-guide){:target="_blank"}
 
 # Privacy Considerations
 
