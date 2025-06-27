@@ -32,7 +32,8 @@ nav_order: 15
 
 ## Thingiverse Lesson Plans
 - [Cloud formations lesson](https://www.thingiverse.com/thing:1699444#google_vignette){:target="_blank"}
-
+- [Benchy Boat](https://www.thingiverse.com/thing:763622){:target="_blank"}
+- 
 ## Lego Stem Activity
 [Lego Activity](https://sd42.libguides.com/c.php?g=735077&p=5290355){:target="_blank"}
 
