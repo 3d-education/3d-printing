@@ -7,7 +7,9 @@ title: Land acknowledgement
 
 We acknowledge the indigenous lands where we are located.    
 
-We acknowledge and respect the Lək̓ʷəŋən (Songhees and Xʷsepsəm/Esquimalt) Peoples on whose territory the university stands, and the Lək̓ʷəŋən and W̱SÁNEĆ Peoples whose historical relationships with the land continue to this day.
+We acknowledge and respect the Lək̓ʷəŋən (Songhees and Xʷsepsəm/Esquimalt) Peoples on whose territory that Brittany learns, works and resides, and the Lək̓ʷəŋən and W̱SÁNEĆ Peoples whose historical relationships with the land continue to this day. 
+
+In addition, we acknowledge that Krystal works and resides on the traditional, ancestral and unceded territory of the kʷikʷəƛ̓əm (Kwikwetlem First Nation). We thank the kʷikʷəƛ̓əm who continue to live on these lands and care for them, along with the waters and all that is above and below.
 
 Visit [native-land.ca](https://native-land.ca/) to explore the indigenous territories, languages, and treaties in your area.
 
