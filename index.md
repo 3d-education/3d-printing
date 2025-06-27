@@ -25,6 +25,39 @@ All in all, 3D printing can thus make learning more inclusive by providing a dif
 
 ## Learning objectives
 By the end of this workshop, participants will be able to:
-![TinkerCad Class Image](images/WBAT2.png)
+
+Teachers will be able to (TWBAT)
+- Create a Tinkercad Education account
+- Monitor and edit students' projects as we see fit.
+- Convert STL files into Gcode (through a slicing software)
+- Operate and maintain the daily uses of a 3D printer
+- Loading filament
+- Change filament color/installing fresh rolls of filament
+- Clean nozzle
+- Clear nozzle blockage
+- Do levelling
+- Adjust adhesion application to building plate
+- General heating settings of nozzle and plate
+- Import g-code into the 3D printer
+- Start the printing process
+- Inform students of Creative Commons licenses and appropriate ways to attribute credit.
+- Print an artifact ([benchy boat](https://www.thingiverse.com/thing:763622){:target="_blank"} and custom design) of their own learning to model how to 3D print
+
+Students will be able to (SWBAT)
+- Log in to their Tinkercad account independently
+- Plan and design a 2D prototype on paper, and transfer it to a 3D space
+- Start a new project
+- Add and remove basic shapes from a design
+- Group and move objects
+- Duplicate objects
+- Create holes and indents in design
+- Change colour of shapes and design
+- Rotate objects and overall design
+- Engage with the engineering design process to modify prototypes to better suit needs/constraints
+- Save design to STL file in either downloads folder or a personal file system (i.e. OneDrive)
+- Manipulate the size through radius and tubing parameters
+- Import premade builds, modifying them, and giving credit
+- Visualize prototypes through the Lego setting
+- Physically build prototype using the Lego blueprint to visualize output
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
