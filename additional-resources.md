@@ -30,10 +30,10 @@ nav_order: 15
 - [Instructables: 3D Print an Earthquake](https://www.instructables.com/3D-Print-an-Earthquake/){:target="_blank"}
 - [Pinterest: 3D Design Ideas](https://www.pinterest.ca/search/pins/?q=3D%20printing&rs=typed){:target="_blank"}
 
-## Thingiverse Lesson Plans
+## Lesson Plans
 - [Cloud formations lesson](https://www.thingiverse.com/thing:1699444#google_vignette){:target="_blank"}
 - [Benchy Boat](https://www.thingiverse.com/thing:763622){:target="_blank"}
-- 
+- [French Resource](https://docs.google.com/presentation/d/1xK7OrIV79B2ShbqukGDrqswjpmWiM9T5ks9J3DDd3oo/edit?slide=id.g2b5fd718b48_0_2#slide=id.g2b5fd718b48_0_2){:target="_blank"}
 ## Lego Stem Activity
 [Lego Activity](https://sd42.libguides.com/c.php?g=735077&p=5290355){:target="_blank"}
 
